@@ -1,0 +1,65 @@
+{
+  "strokes": [
+    {
+      "points": [[50, 50], [70, 60], [90, 55], [110, 65], [130, 70], [150, 75]],
+      "color": "#9C27B0",
+      "width": 4
+    },
+    {
+      "points": [[400, 300], [420, 310], [440, 305], [460, 315], [480, 320]],
+      "color": "#000000",
+      "width": 2
+    },
+    {
+      "points": [[600, 100], [620, 110], [640, 105], [660, 115], [680, 120]],
+      "color": "#FF6B35",
+      "width": 8
+    }
+  ],
+  "shapes": [
+    {
+      "type": "rectangle",
+      "topLeft": [200, 100],
+      "bottomRight": [350, 200],
+      "color": "#000000"
+    },
+    {
+      "type": "circle",
+      "topLeft": [400, 150],
+      "bottomRight": [500, 250],
+      "color": "#9C27B0"
+    },
+    {
+      "type": "polygon",
+      "topLeft": [550, 100],
+      "bottomRight": [650, 200],
+      "color": "#4CAF50"
+    }
+  ],
+  "texts": [
+    {
+      "text": "Interactive Flat Panel Whiteboard",
+      "position": [150, 300],
+      "color": "#000000",
+      "size": 28
+    },
+    {
+      "text": "Perfect for classroom presentations",
+      "position": [150, 350],
+      "color": "#4CAF50",
+      "size": 22
+    },
+    {
+      "text": "Touch-friendly interface",
+      "position": [150, 400],
+      "color": "#FF6B35",
+      "size": 18
+    },
+    {
+      "text": "Built with Flutter & Riverpod",
+      "position": [150, 450],
+      "color": "#9C27B0",
+      "size": 16
+    }
+  ]
+} 

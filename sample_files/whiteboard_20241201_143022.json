@@ -1,0 +1,65 @@
+{
+  "strokes": [
+    {
+      "points": [[100, 100], [120, 110], [140, 105], [160, 115], [180, 120]],
+      "color": "#FF0000",
+      "width": 3
+    },
+    {
+      "points": [[200, 200], [220, 210], [240, 205], [260, 215], [280, 220]],
+      "color": "#FF6B35",
+      "width": 6
+    },
+    {
+      "points": [[300, 300], [320, 310], [340, 305], [360, 315], [380, 320]],
+      "color": "#4CAF50",
+      "width": 1
+    }
+  ],
+  "shapes": [
+    {
+      "type": "rectangle",
+      "topLeft": [50, 50],
+      "bottomRight": [150, 100],
+      "color": "#4CAF50"
+    },
+    {
+      "type": "circle",
+      "topLeft": [200, 150],
+      "bottomRight": [300, 250],
+      "color": "#FF6B35"
+    },
+    {
+      "type": "line",
+      "topLeft": [350, 100],
+      "bottomRight": [450, 200],
+      "color": "#FF0000"
+    },
+    {
+      "type": "polygon",
+      "topLeft": [500, 100],
+      "bottomRight": [600, 200],
+      "color": "#9C27B0"
+    }
+  ],
+  "texts": [
+    {
+      "text": "Hello IFP!",
+      "position": [100, 350],
+      "color": "#000000",
+      "size": 24
+    },
+    {
+      "text": "Draw, Shape, and Text tools available",
+      "position": [100, 400],
+      "color": "#4CAF50",
+      "size": 20
+    },
+    {
+      "text": "Save your work locally",
+      "position": [100, 450],
+      "color": "#FF6B35",
+      "size": 18
+    }
+  ]
+} 
